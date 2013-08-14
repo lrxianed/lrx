@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://lrxianed.github.io/blog/atom.xml" rel="self"/>
+  <link href="http://lrxianed.github.io/blog/"/>
+  <updated>2013-08-15T00:35:50+08:00</updated>
+  <id>http://lrxianed.github.io/blog/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[my first blog]]></title>
+    <link href="http://lrxianed.github.io/blog/blog/2013/08/15/my-first-blog/"/>
+    <updated>2013-08-15T00:33:00+08:00</updated>
+    <id>http://lrxianed.github.io/blog/blog/2013/08/15/my-first-blog</id>
+    <content type="html"><![CDATA[<p>我又重新建过，我把之前的数据弄乱了，那么多命令，我都不知道哪条是用来干嘛的，一不小心就乱套了。重新来过！！</p>
+]]></content>
+  </entry>
+  
+</feed>
