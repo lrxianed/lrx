@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://lrxianed.github.io/blog/atom.xml" rel="self"/>
   <link href="http://lrxianed.github.io/blog/"/>
-  <updated>2013-08-15T00:35:50+08:00</updated>
+  <updated>2013-08-15T00:39:13+08:00</updated>
   <id>http://lrxianed.github.io/blog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,17 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[接着是第二篇]]></title>
+    <link href="http://lrxianed.github.io/blog/blog/2013/08/15/jie-zhao-shi-di-er-pian/"/>
+    <updated>2013-08-15T00:37:00+08:00</updated>
+    <id>http://lrxianed.github.io/blog/blog/2013/08/15/jie-zhao-shi-di-er-pian</id>
+    <content type="html"><![CDATA[<h3>问题</h3>
+
+<p>继续测试上传文章，因为我之前那个是因为第二天发布文章的时候出现了错误提示，奇怪，我完全按照同样的方法，为什么第二天就上传不到的呢？</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[my first blog]]></title>
